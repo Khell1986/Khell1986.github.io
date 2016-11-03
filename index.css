@@ -3,7 +3,7 @@
 	background: #0E517B;
 	opacity: 1;
 	display: block;
-	height: 100px;
+	height: 120px;
 }
 
 .logo{
@@ -38,7 +38,7 @@ border: 1px solid #979797;
 border-radius: 5px;}
 
 body{
-color: rgba(270,1,72,0.75);
+color: rgba(183, 182, 184, 0.75);
 }
 
 .whtBox{
