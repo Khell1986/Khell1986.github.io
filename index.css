@@ -35,7 +35,7 @@ padding: 20px;
 .nav a:hover{
 background: rgba(215,215,215,0.45);
 border: 1px solid #979797;
-border-radius: 5px;}
+border-radius: 2px;}
 
 body{
 color: rgba(183, 182, 184, 0.75);
