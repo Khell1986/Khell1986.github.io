@@ -3,7 +3,7 @@
 	background: #0E517B;
 	opacity: 1;
 	display: block;
-	height: 120px;
+	height: 150px;
 }
 
 .logo{
@@ -13,7 +13,7 @@
 
 .nav {
 font-family: MyanmarMN;
-font-size: 30px;
+font-size: 36px;
 color: #FFFFFF;
 text-align:right;
  background: #0E517B;
@@ -25,19 +25,20 @@ text-align:right;
   display:inline;
 }
 
-
 .nav a{
 /* Blog: */
 color: #FFFFFF;
 text-decoration: none;
-/*padding: 20px;*/
+padding: 20px;
 }
+
 .nav a:hover{
 background: rgba(215,215,215,0.45);
 border: 1px solid #979797;
 border-radius: 2px;}
 
 body{
+color: #000000;
 color: rgba(183, 182, 184, 0.75);
 }
 
@@ -49,14 +50,14 @@ border: 0px solid #FFFFFF;
 box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.50);
 border-radius: 5px;
 text-align:left;
-width:400px;
+width:500px;
 margin-top:50px;
 margin-bottom: 50px;
 margin-left: 20px;
 }
 .whtBox p{/* A driven, versatile,: */
 font-family: MyanmarMN;
-font-size: 24px;
+font-size: 30px;
 color: #CC0305;
 line-height: 42px;
 padding:50px;
@@ -64,14 +65,14 @@ padding:50px;
 
 .lgfont {
 font-family: MyanmarMN;
-font-size: 30px;
+font-size: 36px;
 color: #CC0305;
 text-align: center;
 position: center;
 }
 
 .bkImg{
-    /* margin-top: 50px;*/
+    margin-top: 50px;
 	  background-image: url("images/backgroundimg.png");
 	  background-repeat: no-repeat;
     background-size: cover;
@@ -80,8 +81,8 @@ position: center;
 .bodyBlock {
   text-align: left;
   border: none;
-	height: 200px;
-	width: 300px;
+	height: 400px;
+	width: 600px;
 	padding-top: 50px;
   padding-right: 20px;
   padding-bottom: 50px;
