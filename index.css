@@ -13,7 +13,7 @@
 
 .nav {
 font-family: MyanmarMN;
-font-size: 36px;
+font-size: 30px;
 color: #FFFFFF;
 text-align:right;
  background: #0E517B;
@@ -30,7 +30,7 @@ text-align:right;
 /* Blog: */
 color: #FFFFFF;
 text-decoration: none;
-padding: 20px;
+/*padding: 20px;*/
 }
 .nav a:hover{
 background: rgba(215,215,215,0.45);
