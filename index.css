@@ -55,7 +55,8 @@ margin-top:50px;
 margin-bottom: 50px;
 margin-left: 20px;
 }
-.whtBox p{/* A driven, versatile,: */
+.whtBox p{
+	/* A driven, versatile,: */
 font-family: MyanmarMN;
 font-size: 18px;
 color: #CC0305;
@@ -95,7 +96,12 @@ position: center;
 }
 
 .blog {
-	background: rgba(204,2,5,0.30);
+	background: #CA6F72;
+}
+
+.portfolio
+{
+	background: #BDC082;
 }
 
 .footer{
