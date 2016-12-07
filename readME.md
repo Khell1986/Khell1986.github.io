@@ -1,1 +1,2 @@
-This is my personal website project for YWCA Career Academy. 
+# git-portfolio
+This is to make a website for my portfolio
